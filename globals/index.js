@@ -1,2 +1,2 @@
 'use strict';
-module.exports = require('./globals.json');
+module.exports = require('./global.json');
